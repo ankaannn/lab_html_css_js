@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blue_gray_title{
+    color: white;
+    background-color: bisque;
+    padding: 70px;
+    text-align: center;
+    font-size: 30px;  
+}
+
+.left_menu{
+    width: 20%;
+    height: 505px;
+    background: blanchedalmond;
+    padding: 30px;
+    float: 20;
+}
+
+.contents{
+    padding: 30px;
+    width: 70%;
+    height: 505px;
+    background: burlywood;
+    float: 20;
+}
